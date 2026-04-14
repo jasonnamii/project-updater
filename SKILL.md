@@ -114,7 +114,7 @@ description: |
 
 ### ④ 형 검토 → ⑤ 저장
 
-형 승인 후 DC write_file 또는 Cowork Write로 저장.
+형 승인 후 저장.
 
 ---
 
