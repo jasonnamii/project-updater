@@ -8,6 +8,7 @@ description: |
   P4: "프로젝트 업데이트 실행해줘", "프로젝트 업데이터", "GRAPH.md 만들어", "새 프로젝트", "지식그래프 갱신".
   P5: CLAUDE.md로, GRAPH.md로.
   NOT: 기존 CLAUDE.md 갱신(→UP §H), 스킬생성(→skill-builder).
+vault_dependency: HARD
 ---
 
 <!-- Trigger Conditions — description에 통합됨 -->
