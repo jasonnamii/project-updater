@@ -8,7 +8,7 @@ description: |
   P3: project updater, knowledge graph, entity graph.
   P4: "GRAPH.md 만들어", "지식그래프 갱신", "핵심 인물·조직 그래프화".
   P5: CLAUDE.md로, GRAPH.md로.
-  NOT: 기존 CLAUDE.md 갱신(→UP §H), 인물 단독 프로파일링(→person-profiler).
+  NOT: 기존 CLAUDE.md 갱신(→UP §H), 인물 단독 프로파일링(→profiler-skill).
 vault_dependency: HARD
 ---
 
