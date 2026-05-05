@@ -3,12 +3,12 @@ name: project-updater
 version: 1.2.0
 description: |
   프로젝트 CLAUDE.md+GRAPH.md 통합엔진. GRAPH.md=상위기획+핵심엔티티(고려사항·인물·조직·상황) 5카테고리 노드 중심. 디테일 배제. Obsidian 위키링크.
-  P1: 프로젝트업데이터, 프로젝트업데이트, 프로젝트초기화, 지식그래프, GRAPH.md, CLAUDE.md생성, 그래프갱신, 핵심인물, 핵심조직.
-  P2: 만들어줘, 세팅해줘, 갱신해줘, initialize, setup, update.
-  P3: project updater, knowledge graph, entity graph.
-  P4: "GRAPH.md 만들어", "지식그래프 갱신", "핵심 인물·조직 그래프화".
-  P5: CLAUDE.md로, GRAPH.md로.
-  NOT: 기존 CLAUDE.md 갱신(→UP §H), 인물 단독 프로파일링(→profiler-skill).
+    P1: 프로젝트업데이터, 프로젝트업데이트, 프로젝트초기화, 지식그래프, GRAPH.md, CLAUDE.md생성, 그래프갱신, 핵심인물, 핵심조직, project updater, 프로젝트세팅, 프로젝트설정, 클로드메모리, 프로젝트메모리, 지식그래프갱신, 엔티티그래프, 프로젝트문서, 컨텍스트세팅, 세션컨텍스트.
+    P2: 만들어줘, 세팅해줘, 갱신해줘, initialize, setup, update, 프로젝트 초기화해줘, GRAPH 만들어줘, 지식그래프 갱신해줘, 컨텍스트 잡아줘.
+    P3: project updater, knowledge graph, entity graph, CLAUDE.md, GRAPH.md, project context setup.
+    P4: 프로젝트 시작할 때, 지식그래프 갱신할 때, 핵심 인물·조직 그래프화할 때.
+    P5: CLAUDE.md로, GRAPH.md로.
+    NOT: 기존 CLAUDE.md 갱신(→up-manager), 인물 단독 프로파일링(→profiler-skill), 세션브리핑(→session-briefing).
 vault_dependency: HARD
 ---
 
